@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ano-chisamba-04.github.io/flexible-work-investments/sitemap.xml
